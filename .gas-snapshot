@@ -1,0 +1,8 @@
+MyTokenTest:test_ApproveAndTransferFrom() (gas: 69057)
+MyTokenTest:test_ApproveOverwrite() (gas: 49944)
+MyTokenTest:test_InitialSupplyAndBalances() (gas: 24302)
+MyTokenTest:test_Metadata() (gas: 20431)
+MyTokenTest:test_NonExistentMintShouldRevert() (gas: 8731)
+MyTokenTest:test_OwnerIsInitialOwner() (gas: 13330)
+MyTokenTest:test_TransferRevertsOnInsufficientBalance() (gas: 17050)
+MyTokenTest:test_TransfersUpdateBalances() (gas: 49042)
